@@ -328,7 +328,7 @@ bto-management-system/
 1. Clone the repository or download the source code
 2. Open the project in your preferred IDE
 3. Ensure the project structure includes the `src` and `data` directories
-4. Compile and run the `BTOManagementSystem` class which contains the main method
+4. Compile and run the `BTOManagementSystem` class in the src/bto/Boundaries directory which contains the main method
 
 ### Initial Setup
 - The system comes with sample data to demonstrate functionality:
