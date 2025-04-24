@@ -1,5 +1,6 @@
 Name	NRIC	Age	Marital Status	Password
-Emily	S6543210I	28	SINGLE	password
-Gerald	T0208695B	23	SINGLE	password
+Bradley	T1234567G	22	SINGLE	password
 David	T1234567J	29	MARRIED	password
 Daniel	T2109876H	36	SINGLE	password
+Emily	S6543210I	28	SINGLE	password
+Gerald	T0208695B	23	SINGLE	password

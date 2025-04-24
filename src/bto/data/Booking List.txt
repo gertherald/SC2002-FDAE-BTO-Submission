@@ -1,1 +1,5 @@
-Applicant NRIC	Project Name	Flat Type	Flat ID	Booking Date	Booking Status	Rejection Reason
+Applicant NRIC	Project Name	Flat Type	Flat ID	Booking Date	Booking Status	Rejection Reason	Processed By Officer NRIC
+T6437463S	Test Project 1	THREE_ROOM	4	09/04/2025	APPROVED	N/A	T1234567G
+T7654321B	Test Project 1	TWO_ROOM	1	11/04/2025	APPROVED	N/A	T1234567G
+S1234567A	Test Project 1	TWO_ROOM	2	11/04/2025	APPROVED	N/A	T1234567G
+T2345678D	Acacia Breeze	THREE_ROOM	3	07/04/2025	APPROVED	N/A	T2109876H

@@ -1,1 +1,6 @@
 Applicant NRIC	Project Name	Status	Withdrawal Status	Selected Flat Type
+T6437463S	Test Project 1	BOOKED	N/A	THREE_ROOM
+T7654321B	Test Project 1	BOOKED	N/A	TWO_ROOM
+S9876543C	Acacia Breeze	PENDING	N/A	N/A
+S1234567A	Test Project 1	BOOKED	N/A	TWO_ROOM
+T2345678D	Acacia Breeze	BOOKED	N/A	THREE_ROOM

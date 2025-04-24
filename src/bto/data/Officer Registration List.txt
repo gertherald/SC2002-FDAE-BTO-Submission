@@ -1,2 +1,5 @@
 Officer NRIC	Project Name	Registration Status
+S6543210I	Acacia Breeze	APPROVED
+T1234567G	Test Project 1	APPROVED
 T1234567J	Test Project 1	APPROVED
+T2109876H	Acacia Breeze	APPROVED
