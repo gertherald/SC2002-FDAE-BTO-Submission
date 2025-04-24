@@ -67,6 +67,9 @@ The system implements several design patterns:
   - `IBookingController`, `IEnquiryController`, `IWithdrawalController`
   - `IRegistrationController`, `IReportController`, `IReceiptGenerator`
 
+#### HTML JavaDoc URL: 
+  [HTML JavaDoc](https://ccheriii.github.io/SC2002_Group5_FDAE_BTO/)
+
 ## Features
 
 ### Multi-User System
@@ -147,6 +150,8 @@ The system uses a file-based data persistence mechanism to store:
 - If the withdrawn application had a booking, the flat is returned to the available pool
 
 ## System Workflows
+
+The system is built on a rich network of relationships between entities:
 
 1. **User Hierarchy**
    - User (base class)
@@ -328,7 +333,7 @@ bto-management-system/
 1. Clone the repository or download the source code
 2. Open the project in your preferred IDE
 3. Ensure the project structure includes the `src` and `data` directories
-4. Compile and run the `BTOManagementSystem` class which contains the main method
+4. Compile and run the `BTOManagementSystem` class in the src/bto/Boundaries directory which contains the main method
 
 ### Initial Setup
 - The system comes with sample data to demonstrate functionality:
@@ -475,4 +480,4 @@ bto-management-system/
 
 These enhancements would transform the system from a standalone application to a comprehensive housing management platform that serves all stakeholders in the public housing ecosystem.## Entity Relationships
 
-The system is built on a rich network of relationships between entities:
+
